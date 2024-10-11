@@ -6,7 +6,6 @@ msaifuddin77887@gmail.com
 
 Problem Statement: This system will facilitate the management of grocery items, allow customers to shop for items, and enable the store admin to manage inventory.
 """
-
 class Store:
     def __init__(self):
         # Initializing store items with their prices and stock quantities
